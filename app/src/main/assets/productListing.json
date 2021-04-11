@@ -1,0 +1,74 @@
+{
+"itemList": [
+{
+"id": 1,
+"name": "Shirt",
+"description": "Causal Office White Shirts For Mens",
+"price": 1349.0,
+"itemRate": 4
+},
+{
+"id": 2,
+"name": "Shoes",
+"description": "Cozy Shoes for men Loafers moccassion high quality",
+"price": 900.0,
+"itemRate": 3
+},
+{
+"id": 3,
+"name": "Cap",
+"description": "New Original Wool Chitrali Cap For Boys",
+"price": 4850.0,
+"itemRate": 4
+},
+{
+"id": 4,
+"name": "Kurti",
+"description": "Stylish Kurti For Women",
+"price": 1099.0,
+"itemRate": 5
+},
+{
+"id": 5,
+"name": "Zipper",
+"description": "Oxford Lambswool Sleeveless Zipper For Men",
+"price": 4850.0,
+"itemRate": 4
+},
+{
+"id": 6,
+"name": "Shampoo",
+"description": "Magic Retouch Root Touch Up Hair Color Spray - Black 75ml",
+"price": 4850.0,
+"itemRate": 3
+},
+{
+"id": 7,
+"name": "Sweatshirts",
+"description": "",
+"price": 4850.0,
+"itemRate": 3
+},
+{
+"id": 8,
+"name": "Belt",
+"description": "Back Posture Corrector Belt Adjustable",
+"price": 4850.0,
+"itemRate": 5
+},
+{
+"id": 9,
+"name": "Watch",
+"description": "Classy Black & Golden Stainless Steel Watch",
+"price": 4850.0,
+"itemRate": 4
+},
+{
+"id": 10,
+"name": "Dryer",
+"description": "Professional 6000 Watt Hair Dryer PH-8080",
+"price": 4850.0,
+"itemRate": 4
+}
+]
+}
